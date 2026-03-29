@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am Himanshu Molkapuri,<br> <br>Currently working as a Product Manager Intern at Margam, I focus on building impactful AI-driven products that solve real-world problems in the study abroad space.<br> <br>I am an AI Generalist and AI Automation Developer, with hands-on experience in creating intelligent workflows and scalable solutions. Alongside this, I have a strong foundation in web development (WordPress), where I have built projects including a personal portfolio and a fully functional website for a study abroad company.<br> <br>I am currently exploring Generative AI with RAG (Retrieval-Augmented Generation) and AI evaluation, to build AI-Driven Projects, context-aware, and user-centric AI products.<br> <br>Beyond development, I am a content creator on YouTube, where I share insights on technology and education, simplifying complex topics for a wider audience. I guided 1000+ B.Tech students throughout their academic career. <br> <br>Driven by curiosity and continuous learning, I aim to grow into a well-rounded AI Generalist and contribute to building meaningful, scalable technology.
 
 
