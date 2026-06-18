@@ -24,11 +24,11 @@
 
 I'm **Himanshu Molkapuri**, an **AI Generalist, Agentic AI Developer, and AI Automation Engineer** passionate about building intelligent systems that solve real-world problems.
 
-🔹 Building AI-powered applications using LLMs, RAG, and AI Agents /n
-🔹 Creating automation workflows with n8n, Make, Zapier, and APIs /n
-🔹 Developing scalable web applications and AI products /n
-🔹 Product-minded engineer focused on rapid prototyping and validation /n
-🔹 Educating students through my YouTube channel **DMS AI Edu Tech** (20K+ subscribers, 5M+ views) /n
+🔹 Building AI-powered applications using LLMs, RAG, and AI Agents <br>
+🔹 Creating automation workflows with n8n, Make, Zapier, and APIs <br>
+🔹 Developing scalable web applications and AI products 
+🔹 Product-minded engineer focused on rapid prototyping and validation 
+🔹 Educating students through my YouTube channel **DMS AI Edu Tech** (20K+ subscribers, 5M+ views) 
 🔹 Mentored 2000+ students in AI, technology, and career development
 
 ---
