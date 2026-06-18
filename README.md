@@ -125,7 +125,7 @@ An educational platform focused on AI, technology, engineering, and career guida
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=himanshu-662&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=himanshu-662&theme=tokyonight&hide_border=true)" />
+  <img src="https://streak-stats.demolab.com?user=himanshu-662&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
