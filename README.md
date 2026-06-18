@@ -26,9 +26,9 @@ I'm **Himanshu Molkapuri**, an **AI Generalist, Agentic AI Developer, and AI Aut
 
 🔹 Building AI-powered applications using LLMs, RAG, and AI Agents <br>
 🔹 Creating automation workflows with n8n, Make, Zapier, and APIs <br>
-🔹 Developing scalable web applications and AI products 
-🔹 Product-minded engineer focused on rapid prototyping and validation 
-🔹 Educating students through my YouTube channel **DMS AI Edu Tech** (20K+ subscribers, 5M+ views) 
+🔹 Developing scalable web applications and AI products <br>
+🔹 Product-minded engineer focused on rapid prototyping and validation <br>
+🔹 Educating students through my YouTube channel **DMS AI Edu Tech** (20K+ subscribers, 5M+ views) <br>
 🔹 Mentored 2000+ students in AI, technology, and career development
 
 ---
@@ -131,18 +131,12 @@ An educational platform focused on AI, technology, engineering, and career guida
 
 ## 🏆 Achievements
 
-🏅 Built multiple AI-powered products and prototypes
-
-🏅 Developed LLM applications using RAG architectures
-
-🏅 Product Manager Intern at Margam – Study Abroad
-
-🏅 Created educational content reaching 5M+ views
-
-🏅 Built AI, HRMS, Educational, and Web Platforms
-
-🏅 Mentored 2000+ students in academics and technology
-
+🏅 Built multiple AI-powered products and prototypes <br>
+🏅 Developed LLM applications using RAG architectures <br>
+🏅 Product Manager Intern at Margam – Study Abroad <br>
+🏅 Created educational content reaching 5M+ views <br>
+🏅 Built AI, HRMS, Educational, and Web Platforms <br>
+🏅 Mentored 2000+ students in academics and technology <br>
 🏅 Active contributor to AI, Automation, and Product Development communities
 
 ---
